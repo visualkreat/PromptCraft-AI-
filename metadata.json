@@ -1,0 +1,5 @@
+{
+  "name": "PromptCraft AI",
+  "description": "Generate high-quality design prompts for AI image generation tools using reference images, logos, and custom instructions.",
+  "requestFramePermissions": []
+}
